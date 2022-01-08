@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xde2942B52e75c327AD4ddD6C7Db7c398fED6199F",
+  "SCAN_LINK": "https://etherscan.io/address/0xde2942b52e75c327ad4ddd6c7db7c398fed6199f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Ponpave",
+  "SYMBOL": "Ponpave",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 250000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Ponpave",
+  "SHOW_BACKGROUND": true
+}
